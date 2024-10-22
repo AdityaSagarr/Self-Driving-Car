@@ -114,8 +114,8 @@ self-driving-car-project/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/self-driving-vehicle.git
-   cd self-driving-vehicle
+   git clone https://github.com/AdityaSagarr/Self-Driving-Car.git
+   cd Self-Driving-Car
    ```
 
 2. **Install Python Dependencies**:
